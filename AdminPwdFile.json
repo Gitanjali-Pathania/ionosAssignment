@@ -1,0 +1,24 @@
+var  passwords= 
+  {
+                "obj":[
+                {
+                    "username": "admin@ionos.in",
+                    "password": "ionos"
+                    
+                },
+                {
+                    "username": "user1@ionos.in",
+                    "password": "ionos",
+                    "firstName": "Gitanjali",
+                    "lastName": "Pathania"
+                    
+                },
+                {
+                    "username": "user2@ionos.in",
+                    "password": "ionos",
+                    "firstName": "Narendra",
+                    "lastName": "Modi"
+                    
+                }
+            ]
+}
